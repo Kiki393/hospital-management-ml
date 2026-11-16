@@ -31,11 +31,11 @@ The undergraduate system included or documented workflows for:
 - Database-backed operations and record retrieval
 - Integration concepts for storing and presenting image-classification predictions
 
-The dissertation contains requirements analysis, design diagrams, implementation examples, testing and system documentation.
+The dissertation contains requirements analysis, design diagrams, implementation examples, testing, and system documentation.
 
 ## Machine-learning research component
 
-The dissertation describes experiments using **ML.NET AutoML to classify chest X-rays for pneumonia detection**. It discusses dataset selection, training, prediction and integration with the hospital application.
+The dissertation describes experiments using **ML.NET AutoML to classify chest X-rays for pneumonia detection**. It discusses dataset selection, training, prediction, and integration with the hospital application.
 
 A final two-class experiment reported approximately **97% classification accuracy** in the dissertation. This is a historical, project-reported experimental result, **not independently verified clinical performance**. It should not be interpreted as evidence of diagnostic reliability or suitability for deployment in a healthcare setting.
 
@@ -75,7 +75,7 @@ Chest X-ray dataset -> ML.NET AutoML experiments -> prediction -> proposed appli
 
 ## Documentation and future showcase materials
 
-The undergraduate dissertation is the primary record of the project. Selected system diagrams, **redacted** screenshots and short technical explanations may be published here after checking that they contain no patient information, personal data, credentials or other sensitive material.
+The undergraduate dissertation is the primary record of the project. Selected system diagrams, **redacted** screenshots, and short technical explanations may be published here after checking that they contain no patient information, personal data, credentials, or other sensitive material.
 
 ## Academic context
 
