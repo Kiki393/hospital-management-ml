@@ -1,5 +1,10 @@
 # Hospital Management System with Machine Learning Integration
 
+**Author:** Victor Kwame Essuon Ashun  
+**Institution:** Valley View University, Ghana  
+**Academic supervisor:** Mr Francis Ronky Doh  
+**Project period:** 2021–2022
+
 ## Overview
 
 A final-year BSc Computer Science project exploring a web-based hospital management system alongside an experimental machine-learning component for chest X-ray classification.
@@ -36,7 +41,7 @@ A final two-class experiment reported approximately **97% classification accurac
 
 ### Availability of implementation
 
-The original development repository is kept private. Its currently available source-code snapshot **does not include the complete ML.NET implementation or trained model files**. The machine-learning work described here is supported by the undergraduate dissertation, which contains relevant methodology and sample integration code.
+The original development repository is kept private. Because this project was submitted as part of my undergraduate studies at Valley View University, I have chosen to publish a documentation-only showcase rather than release the full source code. This is a precautionary publication choice and is not a claim that the university legally owns the code; intellectual-property rights would depend on the applicable university rules and agreements. Its currently available source-code snapshot **does not include the complete ML.NET implementation or trained model files**. The machine-learning work described here is supported by the undergraduate dissertation, which contains relevant methodology and sample integration code.
 
 This public repository is **a project showcase and documentation summary**, not a complete, runnable source code release or a live demo.
 
